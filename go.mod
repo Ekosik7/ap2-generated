@@ -1,4 +1,4 @@
-module github.com/ekosik7/ap2-generated
+module github.com/Ekosik7/ap2-generated
 
 go 1.21
 
